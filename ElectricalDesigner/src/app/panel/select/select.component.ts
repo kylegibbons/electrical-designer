@@ -5,7 +5,7 @@ import { Component, OnInit } from '@angular/core';
   templateUrl: './select.component.html',
   styleUrls: ['./select.component.scss']
 })
-export class SelectComponent implements OnInit {
+export class SelectPanelComponent implements OnInit {
 
   constructor() { }
 
